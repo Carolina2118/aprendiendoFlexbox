@@ -15,16 +15,20 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: stretch;
+    align-items: baseline;
 }
 
 .hijo {
     background: #00b285;
     width: 200px;
-    /*height: 100px;*/
+    height: 100px;
     color: #fff;
     margin: 30px;
     padding: 20px;
     font-size: 40px;
     text-align: center;
+}
+
+.otro {
+    font-size: 30px;
 }
