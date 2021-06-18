@@ -15,7 +15,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .hijo {
