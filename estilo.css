@@ -29,4 +29,9 @@
     /*flex-grow: 1;
     flex-shrink: o;restringo ancho */
     flex: 1 1 auto;
+    order: 2;
+}
+
+.otro {
+    order: 1;
 }
