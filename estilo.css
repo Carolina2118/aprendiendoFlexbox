@@ -32,5 +32,6 @@
 }
 
 .otro {
-    align-self: center;
+    align-self: stretch;
+    height: auto;
 }
